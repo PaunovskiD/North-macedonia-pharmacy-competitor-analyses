@@ -1,0 +1,25 @@
+{
+  "Competitor Name": "Viola Skopje",
+  "WebsiteURL": "https://viola.com.mk",
+  "Debrief": "Local Skopje pharmacy chain offering late‑hours access and a convenient e‑shop for mother & baby, cosmetics, supplements, and everyday OTC needs.",
+  "Type": "Private pharmacy chain",
+  "DateAdded": "2025-09-30",
+  "LastUpdated": "2025-09-30",
+  "HQ_Location": "Ul. Vostanička 59, Skopje 1000, North Macedonia",
+  "CompanySize_Employees": "Estimated 20–40 employees based on 4+ branches and extended shifts listed on store pages",
+  "YearFounded": "N/A",
+  "CompanyStatus": "Active",
+  "Research_Sources": [
+    {"url": "https://viola.com.mk", "description": "Official e‑shop: products, store list, hours"},
+    {"url": "https://viola.com.mk/Company/Contact", "description": "Branch addresses, phones, and working hours"},
+    {"url": "https://viola.com.mk/Products", "description": "Product categories and featured items"},
+    {"url": "https://www.instagram.com/viola.pharmacy.mk/", "description": "Social presence, promotions, product showcases"},
+    {"url": "https://zk.mk/viola-head-office-direkcija?lang=en", "description": "Head office listing (address/phone)"},
+    {"url": "https://zk.mk/viola-vodnjanska?lang=en", "description": "Branch listing with hours/phone"},
+    {"url": "https://kariera.mk/company/Dx-H8S7vxEi-IOtOi4npeA/pzu-apteka-viola", "description": "Company page: address/industry/web"}
+  ],
+  "CoreOffering_Summary": "Neighborhood pharmacies with late‑hours coverage in central Skopje supported by an e‑shop across OTC, supplements, cosmetics, and baby products.",
+  "KeyProducts_Medications": "OTC decongestants, analgesics, vitamins, dermo‑cosmetics, baby supplies; in‑store Rx dispensing as regulated.",
+  "KeyServices_HealthcareSupport": "In‑pharmacy counselling, extended opening hours, phone support, online browsing/ordering.",
+  "Technology_Use_In_Pharmacy": "Basic e‑commerce catalog and branch info; no public evidence of telepharmacy or AI."
+}
