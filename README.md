@@ -15,3 +15,17 @@
 ## Battle Cards (Gamma)
 - Live link: https://gamma.app/docs/North-Macedonia-Pharmacy-Battle-Cards-0wu1wylv7likwcg?mode=doc
 - PDF export: docs/NM-Pharmacy-Battle-Cards-Gamma-2025-09-30.pdf
+
+## Screenshots (JSON snapshots)
+
+Viola Skopje JSON
+
+![Viola JSON](images/Viola-json.jpg)
+
+ZEGIN Farm Skopje JSON
+
+![ZEGIN JSON](images/Zegin-json.jpg)
+
+Eurofarm Bitola JSON
+
+![Eurofarm JSON](images/Eurofarm-json.jpg)
